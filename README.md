@@ -1,2 +1,4 @@
-# pwn_docker_example
-Example pwnable challenge hosted with docker
+# Ansible homelab
+- Proxmox server 
+- VM mit Ansible 
+dieses repro stellt die Infrastruktur dar
